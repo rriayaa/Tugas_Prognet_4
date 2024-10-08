@@ -1,0 +1,17 @@
+{
+    "name": "rriayaa/coba_composer",
+    "description": "membuat tugas prognet yang ke 4",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "phpunit/phpunit": "^11.4"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
+
